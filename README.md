@@ -7,13 +7,13 @@ A very simple echarts(v3.0) wrapper for react.
 # 1. install
 
 ```sh
-npm install echarts-for-react
+npm install echartsex-for-react
 ```
 
 How to run the demo:
 
 ```sh
-git clone git@github.com:hustcc/echarts-for-react.git
+git clone git@github.com:hustcc/echartsex-for-react.git
 
 npm install
 
@@ -29,7 +29,7 @@ Simple demo code. for more example can see: [http://git.hust.cc/echarts-for-reac
 
 ```js
 import React from 'react';
-import ReactEcharts from 'echarts-for-react';  // or var ReactEcharts = require('echarts-for-react');
+import ReactEcharts from 'echartsex-for-react';  // or var ReactEcharts = require('echartsex-for-react');
 
 <ReactEcharts
     option={this.getOption()} 
