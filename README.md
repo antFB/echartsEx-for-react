@@ -1,4 +1,4 @@
-# echarts-for-react
+# echartsEx-for-react
 
 A very simple echarts(v3.0) wrapper for react.
 
